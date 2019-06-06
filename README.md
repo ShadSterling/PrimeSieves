@@ -1,6 +1,6 @@
 # Prime Sieves
 
-When i went back to school and took Calculus 2, I found I had a harder time with factoring polynomials than most of what was intended as new material.  As a Computer Science major I thought the right way to learn how to factor polynomials would be to write a program to do it.  But factoring polynomials seemed complicated enough that I should start with a simpler case, and the base case of factoring seemed to be factoring natural numbers, so I figured I'd start with that.
+When i went back to college and took Calculus 2, I found I had a harder time with factoring polynomials than most of what was intended as new material.  As a Computer Science major I thought the right way to learn how to factor polynomials would be to write a program to do it.  But factoring polynomials seemed complicated enough that I should start with a simpler case, and the base case of factoring seemed to be factoring natural numbers, so I figured I'd start with that.
 
 Yeah, I had no idea.
 
@@ -39,3 +39,5 @@ end
 And before I knew it I was totally sidetracked into investigating these sequences of candidate gaps.
 
 These are the little programs I wrote to implement and test my thinking about this, mostly in 2007-2008, updated in 2010, and now tweaked to work with newer versions of Ruby.
+
+If anyone wants to know more about what I learned, open an issue and I'll add to this readme.
