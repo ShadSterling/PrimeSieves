@@ -1,0 +1,51 @@
+ * 2019-06-05 20:48:36 -0400:  Initial state:
+primes indexed through #4, which is 11 (next candidate is 13 at step 2)
+sieve excludes through #2(=5), has 8 entries with sum 30 covering 1..31 (next candidate is 13 at step 2)
+
+
+ * 2019-06-05 20:48:36 -0400:  Extending sieve...
+primes indexed through #14, which is 47 (next candidate is 53 at step 11)
+sieve excludes through #3(=7), has 48 entries with sum 210 covering 1..211 (next candidate is 53 at step 11)
+
+ * 2019-06-05 20:48:36 -0400:  Extending sieve...
+primes indexed through #29, which is 113 (next candidate is 127 at step 25)
+sieve excludes through #4(=11), has 480 entries with sum 2310 covering 1..2311 (next candidate is 127 at step 25)
+
+ * 2019-06-05 20:48:36 -0400:  Extending primes...
+primes indexed through #359, which is 2423 (next candidate is 2437 at step 25)
+sieve excludes through #4(=11), has 480 entries with sum 2310 covering 1..2311 (next candidate is 127 at step 25)
+
+ * 2019-06-05 20:48:36 -0400:  Extending sieve...
+primes indexed through #359, which is 2423 (next candidate is 2437 at step 467)
+sieve excludes through #5(=13), has 5901 entries with sum 30030 covering 1..30031 (next candidate is 173 at step 33)
+
+ * 2019-06-05 20:48:36 -0400:  Extending primes...
+primes indexed through #3485, which is 32467 (next candidate is 32471 at step 468)
+sieve excludes through #5(=13), has 5901 entries with sum 30030 covering 1..30031 (next candidate is 173 at step 33)
+
+ * 2019-06-05 20:48:37 -0400:  Extending sieve...
+primes indexed through #3485, which is 32467 (next candidate is 32471 at step 6082)
+sieve excludes through #6(=17), has 97215 entries with sum 510510 covering 1..510511 (next candidate is 293 at step 54)
+
+ * 2019-06-05 20:48:37 -0400:  Extending primes...
+primes indexed through #46623, which is 542981 (next candidate is 542987 at step 6083)
+sieve excludes through #6(=17), has 97215 entries with sum 510510 covering 1..510511 (next candidate is 293 at step 54)
+
+ * 2019-06-05 20:48:40 -0400:  Extending sieve...
+primes indexed through #46623, which is 542981 (next candidate is 542987 at step 100197)
+sieve excludes through #7(=19), has 1843984 entries with sum 9699690 covering 1..9699691 (next candidate is 367 at step 64)
+
+ * 2019-06-05 20:48:43 -0400:  Extending primes...
+ + 2019-06-05 20:50:16 -0400:  progress: primes at 3534247 to 10242671 (0.3451); sieve idle
+ + 2019-06-05 20:51:56 -0400:  progress: primes at 4970419 to 10242671 (0.4853); sieve idle
+ + 2019-06-05 20:53:36 -0400:  progress: primes at 6076321 to 10242671 (0.5932); sieve idle
+ + 2019-06-05 20:55:17 -0400:  progress: primes at 6951559 to 10242671 (0.6787); sieve idle
+ + 2019-06-05 20:56:57 -0400:  progress: primes at 7729669 to 10242671 (0.7547); sieve idle
+ + 2019-06-05 20:58:37 -0400:  progress: primes at 8412367 to 10242671 (0.8213); sieve idle
+ + 2019-06-05 21:00:17 -0400:  progress: primes at 9068351 to 10242671 (0.8854); sieve idle
+ + 2019-06-05 21:01:57 -0400:  progress: primes at 9629801 to 10242671 (0.9402); sieve idle
+primes indexed through #770408, which is 10242671 (next candidate is 10242677 at step 100197)
+sieve excludes through #7(=19), has 1843984 entries with sum 9699690 covering 1..9699691 (next candidate is 367 at step 64)
+
+ * 2019-06-05 21:03:37 -0400:  Done.
+
